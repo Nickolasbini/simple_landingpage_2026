@@ -1,7 +1,7 @@
 # MeuNegócio — Landing Page 2026
 
-Site de negócio local construído do zero com HTML puro e Tailwind CSS via CDN.
-Projeto criado no vídeo **"Como criar um Site em 2026 (Guia completo para iniciantes Parte 2)"**
+Site de negócio local construído do zero com HTML puro e Tailwind CSS via CDN.  
+Projeto criado no vídeo **"Como Criar um Site do Zero em 2026 (Com Deploy e Pagamento Pix!)"**  
 do canal [Código Prático](https://youtu.be/rfZOHkdd90g).
 
 ## O que está incluído
@@ -31,12 +31,13 @@ do canal [Código Prático](https://youtu.be/rfZOHkdd90g).
 3. Instale a extensão **Live Server** e clique em "Go Live"
 4. Substitua os campos marcados com `[colchetes]` pelos seus dados reais
 5. Troque o link `https://mpago.la/...` pelo seu link gerado no Mercado Pago
-6. Atualize o número do WhatsApp na seção de Contato e no botão flutuante
+6. Atualize o número do WhatsApp na seção de Contato
 7. Faça o upload dos arquivos via FileZilla para o Always Data
 
 ## Deploy gratuito
 
 Hospede seu site de graça no [Always Data](https://www.alwaysdata.com/):
+
 - Crie uma conta gratuita
 - Acesse o gerenciador de arquivos ou use FTP com FileZilla
 - Faça upload do `index.html`, `favicon.ico` e `logo.png`
@@ -44,16 +45,22 @@ Hospede seu site de graça no [Always Data](https://www.alwaysdata.com/):
 
 ## Links do vídeo
 
-- [VS Code](https://code.visualstudio.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Gerar Favicon](https://favicon.io)
-- Parte 1 — Como Criar um Site do Zero em 2025: `[LINK_PARTE_1]`
-- Como Gerar Link de Pagamento no Mercado Pago: `[LINK_VIDEO_MP]`
-- Como criar um Bot de WhatsApp: `[LINK_VIDEO_BOT]`
+| Recurso | Link |
+|---|---|
+| VS Code | https://code.visualstudio.com/ |
+| Tailwind CSS | https://tailwindcss.com/ |
+| Gerar Favicon | https://favicon.io |
+| Hospedagem gratuita (Always Data) | https://www.alwaysdata.com/ |
+| Parte 1 — Como Criar um Site do Zero em 2025 | https://youtu.be/kIImolG-C1M |
+| Como gerar link de pagamento no Mercado Pago | https://youtu.be/jx9lGqfR-bQ |
+| Como criar um Bot de WhatsApp | https://youtu.be/JkvbnQg2OWE |
+| Hospedagem recomendada (Hostinger c/ desconto) | https://hostinger.com.br?REFERRALCODE=QK6NICKOLJTX |
+| Agência Cervo Digital | https://cervodigital.com.br/ |
 
 ## Parte 1 da série
 
-Assista primeiro a Parte 1 para entender a base de HTML e CSS antes de avançar para este projeto.
+Assista primeiro a Parte 1 para entender a base de HTML e CSS antes de avançar para este projeto:  
+▶ [Como Criar um Site do Zero em 2025](https://youtu.be/kIImolG-C1M)
 
 ---
 
